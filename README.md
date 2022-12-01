@@ -1,0 +1,2 @@
+# GenericFunctionHaskell_342
+ 
